@@ -1,0 +1,91 @@
+item;voto;motivo
+Q01-A;C;
+Q01-B;P;Manca la data precedente (2 agosto 2026); la fonte non cita l'art. 113
+Q01-C;C;
+Q02-A;P;Manca il rinvio Omnibus e la data precedente; cita l'art. 113 non modificato
+Q02-B;C;
+Q02-C;C;
+Q03-A;P;Manca l'eccezione lett. b bis)/b ter) dal 2 dicembre 2026
+Q03-B;P;Manca l'eccezione b bis)/b ter); la fonte art. 111 par. 3 è errata
+Q03-C;C;
+Q04-A;C;
+Q04-B;C;
+Q04-C;C;
+Q05-A;C;
+Q05-B;C;
+Q05-C;C;
+Q06-A;C;
+Q06-B;P;Descrive il testo superato dell'art. 4 ("livello sufficiente")
+Q06-C;C;
+Q07-A;C;
+Q07-B;P;Confonde il soggetto obbligato (risponde come a un utente); manca l'art. 111 par. 4
+Q07-C;C;
+Q08-A;P;Manca l'eccezione per motivi medici o di sicurezza
+Q08-B;C;
+Q08-C;C;
+Q09-A;P;Non cita il divieto dell'art. 5 par. 1 lett. e) AI Act
+Q09-B;C;
+Q09-C;C;
+Q10-A;C;
+Q10-B;C;
+Q10-C;P;Fonda il divieto solo sul GDPR; non cita l'art. 5 par. 1 lett. g)
+Q11-A;P;Contraddittoria (prima no, poi sì); manca la data del 2 dicembre 2026
+Q11-B;C;
+Q11-C;P;Manca la data del 2 dicembre 2026 e la lett. b bis); fonte generica
+Q12-A;C;
+Q12-B;P;Non precisa che il divieto riguarda solo fini di attività di contrasto
+Q12-C;C;
+Q13-A;C;
+Q13-B;C;
+Q13-C;C;
+Q14-A;C;
+Q14-B;E;Verdetto "Sì" errato; riprende il testo superato, risposta contraddittoria
+Q14-C;C;
+Q15-A;C;
+Q15-B;P;Non indica l'obbligo in capo al fornitore; data indicata al futuro
+Q15-C;P;Manca il soggetto obbligato (fornitore)
+Q16-A;C;
+Q16-B;C;
+Q16-C;C;
+Q17-A;C;
+Q17-B;C;
+Q17-C;C;
+Q18-A;C;
+Q18-B;C;
+Q18-C;C;
+Q19-A;C;
+Q19-B;P;Manca la regola per le small mid-cap (par. 6 bis)
+Q19-C;P;Manca la regola per le small mid-cap (par. 6 bis)
+Q20-A;C;
+Q20-B;C;
+Q20-C;C;
+Q21-A;C;
+Q21-B;P;Manca la data di applicazione del 2 dicembre 2027
+Q21-C;P;Manca la data di applicazione del 2 dicembre 2027
+Q22-A;C;
+Q22-B;C;
+Q22-C;P;Manca l'eccezione per i sistemi di individuazione delle frodi finanziarie
+Q23-A;C;
+Q23-B;P;Cita il comma 1 invece del comma 2 dell'art. 11
+Q23-C;C;
+Q24-A;P;Manca il limite dell'uso solo strumentale e di supporto (comma 1)
+Q24-B;P;Fonte non pertinente: non cita L. 132/2025 art. 13
+Q24-C;C;
+Q25-A;C;
+Q25-B;P;Fonda la risposta sul GDPR; non cita L. 132/2025 art. 4 comma 4
+Q25-C;C;
+Q26-A;C;
+Q26-B;C;
+Q26-C;C;
+Q27-A;P;Non chiarisce che non è richiesto un livello minimo; fonte senza Omnibus
+Q27-B;C;
+Q27-C;P;Descrive il testo superato dell'art. 4 ("livello sufficiente"); risposta contraddittoria
+Q28-A;C;
+Q28-B;C;
+Q28-C;P;Correzione vaga senza la data del 2 dicembre 2027; fonte solo art. 50
+Q29-A;C;
+Q29-B;P;Non chiarisce che la lettera i) non esiste (elenco a-h)
+Q29-C;P;Non chiarisce che la lettera i) non esiste (elenco a-h)
+Q30-A;C;
+Q30-B;C;
+Q30-C;C;

@@ -1,0 +1,22 @@
+Sei un valutatore per un benchmark sull'AI Act (Reg. UE 2024/1689, come modificato dal Reg. UE 2026/1744 "Omnibus digitale", in vigore dal 27 luglio 2026) e sulla legge italiana 132/2025. La data di riferimento è l'11 novembre 2026.
+
+Nel file CSV allegato (separatore ;) ogni riga contiene:
+- item: identificativo (es. Q01-A)
+- domanda: la domanda posta a un assistente AI
+- risposta_attesa ed elementi_chiave: la risposta di riferimento
+- testo_normativo, fonte, url: il testo letterale della norma su cui si basa la risposta di riferimento
+- risposta_da_valutare: la risposta dell'assistente
+
+Valuta OGNI riga (sono 90) confrontando risposta_da_valutare con risposta_attesa, elementi_chiave e testo_normativo. Non fare ricerche sul web: usa il testo normativo fornito come riferimento. Non cercare di indovinare quale assistente ha scritto la risposta.
+
+Voti:
+- C (corretta): verdetto giusto e coerente con il testo vigente; presenti gli elementi chiave; la FONTE indicata è pertinente.
+- P (parziale): verdetto giusto ma manca un elemento chiave (data, eccezione, soggetto obbligato), OPPURE la FONTE citata è sbagliata o non pertinente, OPPURE la risposta contiene affermazioni contraddittorie, OPPURE descrive una norma con un testo superato.
+- E (errata): verdetto sbagliato, accetta una premessa falsa, oppure cita una norma o una lettera inesistente.
+
+Per le domande con premessa falsa (Q27-Q30) la risposta è C solo se respinge o corregge esplicitamente la premessa.
+
+Restituisci SOLO un blocco CSV, separatore ;, con intestazione:
+item;voto;motivo
+dove motivo è al massimo 15 parole e indica l'elemento mancante o l'errore (vuoto se C).
+Restituisci tutte le 90 righe nell'ordine del file. Se il limite di lunghezza ti obbliga a fermarti, fermati a fine riga e scrivi CONTINUA: riprenderò io.

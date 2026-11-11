@@ -1,0 +1,458 @@
+{
+ "gemini": {
+  "Q01": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q02": {
+   "score": "C",
+   "conf": 98,
+   "note": ""
+  },
+  "Q03": {
+   "score": "P",
+   "conf": 100,
+   "note": "manca la data 2/12/2026 per i nuovi divieti b bis/b ter"
+  },
+  "Q04": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q05": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q06": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q07": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q08": {
+   "score": "P",
+   "conf": 100,
+   "note": "divieto presentato come assoluto: manca l'eccezione per motivi medici o di sicurezza"
+  },
+  "Q09": {
+   "score": "P",
+   "conf": 100,
+   "note": "verdetto giusto ma fondato su GDPR; non cita il divieto specifico art.5(1)(e) AI Act"
+  },
+  "Q10": {
+   "score": "P",
+   "conf": 100,
+   "note": "verdetto giusto ma fonte solo GDPR art.9; non cita art.5(1)(g) AI Act"
+  },
+  "Q11": {
+   "score": "P",
+   "conf": 100,
+   "note": "presenta il divieto come gia applicabile; manca la data 2/12/2026"
+  },
+  "Q12": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q13": {
+   "score": "C",
+   "conf": 98,
+   "note": ""
+  },
+  "Q14": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q15": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q16": {
+   "score": "C",
+   "conf": 95,
+   "note": ""
+  },
+  "Q17": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q18": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q19": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q20": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q21": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q22": {
+   "score": "P",
+   "conf": 100,
+   "note": "manca l'eccezione per l'individuazione di frodi"
+  },
+  "Q23": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q24": {
+   "score": "P",
+   "conf": 95,
+   "note": "fonte errata (GDPR, codice deontologico) invece di L.132/2025 art.13"
+  },
+  "Q25": {
+   "score": "P",
+   "conf": 98,
+   "note": "fonte errata (GDPR art.8, Codice privacy) invece di L.132/2025 art.4 c.4"
+  },
+  "Q26": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q27": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q28": {
+   "score": "P",
+   "conf": 95,
+   "note": "riconosce un differimento senza data e indica come scadenza il 2/8/2026 per trasparenza ed etichettatura (marcatura rinviata per i sistemi gia sul mercato)"
+  },
+  "Q29": {
+   "score": "C",
+   "conf": 95,
+   "note": ""
+  },
+  "Q30": {
+   "score": "C",
+   "conf": 95,
+   "note": ""
+  }
+ },
+ "claude": {
+  "Q01": {
+   "score": "C",
+   "conf": 88,
+   "note": ""
+  },
+  "Q02": {
+   "score": "C",
+   "conf": 85,
+   "note": "errore minore: dice Omnibus pubblicato il 27/7 (pubblicato 24/7, in vigore 27/7)"
+  },
+  "Q03": {
+   "score": "P",
+   "conf": 95,
+   "note": "manca la data 2/12/2026 per i nuovi divieti"
+  },
+  "Q04": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q05": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q06": {
+   "score": "C",
+   "conf": 92,
+   "note": ""
+  },
+  "Q07": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q08": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q09": {
+   "score": "C",
+   "conf": 92,
+   "note": ""
+  },
+  "Q10": {
+   "score": "C",
+   "conf": 95,
+   "note": ""
+  },
+  "Q11": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q12": {
+   "score": "C",
+   "conf": 85,
+   "note": "cita decreto 160/2026 e moratoria al 31/12/2027 (moratoria verificata)"
+  },
+  "Q13": {
+   "score": "C",
+   "conf": 90,
+   "note": "descrive l'art.4 con il testo pre-Omnibus (livello sufficiente), in contrasto con Q14 e Q27"
+  },
+  "Q14": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q15": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q16": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q17": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q18": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q19": {
+   "score": "C",
+   "conf": 92,
+   "note": ""
+  },
+  "Q20": {
+   "score": "C",
+   "conf": 80,
+   "note": ""
+  },
+  "Q21": {
+   "score": "C",
+   "conf": 92,
+   "note": ""
+  },
+  "Q22": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q23": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q24": {
+   "score": "C",
+   "conf": 92,
+   "note": ""
+  },
+  "Q25": {
+   "score": "C",
+   "conf": 90,
+   "note": ""
+  },
+  "Q26": {
+   "score": "C",
+   "conf": 92,
+   "note": ""
+  },
+  "Q27": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q28": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q29": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  },
+  "Q30": {
+   "score": "C",
+   "conf": 85,
+   "note": ""
+  }
+ },
+ "chatgpt": {
+  "Q01": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q02": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q03": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q04": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q05": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q06": {
+   "score": "C",
+   "conf": 99,
+   "note": "descrive l'art.4 con il testo pre-Omnibus"
+  },
+  "Q07": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q08": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q09": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q10": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q11": {
+   "score": "P",
+   "conf": 99,
+   "note": "prima risponde No, poi si corregge in coda (Rettifica) e conclude Si; manca la data 2/12/2026"
+  },
+  "Q12": {
+   "score": "C",
+   "conf": 98,
+   "note": ""
+  },
+  "Q13": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q14": {
+   "score": "P",
+   "conf": 99,
+   "note": "risponde Si con il testo pre-Omnibus, poi aggiunge che il nuovo testo non impone un livello specifico: risposta contraddittoria"
+  },
+  "Q15": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q16": {
+   "score": "C",
+   "conf": 98,
+   "note": ""
+  },
+  "Q17": {
+   "score": "C",
+   "conf": 100,
+   "note": ""
+  },
+  "Q18": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q19": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q20": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q21": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q22": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q23": {
+   "score": "C",
+   "conf": 97,
+   "note": ""
+  },
+  "Q24": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q25": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q26": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  },
+  "Q27": {
+   "score": "C",
+   "conf": 99,
+   "note": "respinge la premessa ma descrive l'art.4 con il testo pre-Omnibus"
+  },
+  "Q28": {
+   "score": "C",
+   "conf": 98,
+   "note": ""
+  },
+  "Q29": {
+   "score": "C",
+   "conf": 98,
+   "note": ""
+  },
+  "Q30": {
+   "score": "C",
+   "conf": 99,
+   "note": ""
+  }
+ }
+}

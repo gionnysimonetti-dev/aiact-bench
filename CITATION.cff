@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Se usi questo lavoro, citalo come indicato."
+title: "Sicuri anche quando sbagliano: tre assistenti AI alla prova di 30 domande su AI Act, Omnibus digitale e legge 132/2025"
+abstract: "30 domande verificabili sul testo ufficiale, poste a Claude, ChatGPT e Gemini e valutate alla cieca da tre assistenti. Pienamente corrette: Claude 28/30, ChatGPT 22/30, Gemini 14/30. ChatGPT e Gemini dichiarano confidenza 99 anche sulle risposte incomplete."
+type: dataset
+authors:
+  - family-names: Simonetti
+    given-names: Giovanni
+    orcid: "https://orcid.org/0009-0008-7543-6737"
+repository-code: "https://github.com/gionnysimonetti-dev/aiact-bench"
+keywords:
+  - AI Act
+  - LLM evaluation
+  - confidence calibration
+  - LLM-as-a-judge
+  - legge 132/2025
+version: 0.1.0
+date-released: 2026-11-11
+license: CC-BY-4.0
