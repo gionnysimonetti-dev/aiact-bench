@@ -14,6 +14,8 @@ Quanto ci si può fidare di un assistente AI su una domanda di conformità all'A
 - Fra i valutatori automatici, ChatGPT e Claude concordano fortemente (kappa 0,76); Gemini segna come corrette quasi tutte le risposte (kappa 0,08–0,12 con gli altri).
 - Con 30 domande la differenza fra Claude e ChatGPT non è statisticamente significativa (McNemar p = 0,11).
 
+DOI: [10.5281/zenodo.24139406](https://doi.org/10.5281/zenodo.24139406)
+
 Rapporto completo: [paper/paper.pdf](paper/paper.pdf) (sorgente [paper/paper.md](paper/paper.md)). Riepilogo in foglio di calcolo: [risultati_v0.xlsx](risultati_v0.xlsx).
 
 ## English summary

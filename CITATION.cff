@@ -7,6 +7,7 @@ authors:
   - family-names: Simonetti
     given-names: Giovanni
     orcid: "https://orcid.org/0009-0008-7543-6737"
+doi: "10.5281/zenodo.24139406"
 repository-code: "https://github.com/gionnysimonetti-dev/aiact-bench"
 keywords:
   - AI Act
